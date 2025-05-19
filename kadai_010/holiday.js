@@ -2,6 +2,9 @@ const holidays = ["正月","成人の日","建国記念日","天皇誕生日","�
 
 console.log(userholidays);
 // for文の場合
-for (let i=1;i<33,i++) {
-    console.log(i)
+for (let i=1;i<holidays.length;i++) {
+    holidays.log(i)
+}
+while (let i=1;i<holidays.length;i++) {
+    holidays.log(i)
 }
