@@ -1,4 +1,4 @@
 const Result= (value) =>{
-    console.log(value^2)
+    return value*value
 }
-Result(10)
+console.log(Result(10))
